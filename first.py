@@ -1,5 +1,5 @@
 print("sudah malam")
 
-print("ini tambahan pagi")
+print("ini tambahan pagi!!")
 
-coba edit github
+print("coba edit github")
